@@ -1,0 +1,13 @@
+.eda {
+  padding: 20px;
+  text-align: center;
+}
+
+.eda h2 {
+  color: #333;
+}
+
+.eda p {
+  font-size: 1.1em;
+  color: #666;
+}
